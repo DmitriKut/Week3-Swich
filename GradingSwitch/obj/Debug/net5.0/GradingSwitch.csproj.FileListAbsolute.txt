@@ -1,0 +1,15 @@
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.exe
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.deps.json
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.json
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\ref\GradingSwitch.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.pdb
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfo.cs
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\ref\GradingSwitch.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.pdb
+C:\Users\atrei\source\repos\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.exe
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.deps.json
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.runtimeconfig.json
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.runtimeconfig.dev.json
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\ref\GradingIF.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.pdb
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.csproj.AssemblyReference.cache
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.AssemblyInfoInputs.cache
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.AssemblyInfo.cs
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.csproj.CoreCompileInputs.cache
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\ref\GradingIF.dll
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.pdb
+C:\Users\atrei\source\repos\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.genruntimeconfig.cache
